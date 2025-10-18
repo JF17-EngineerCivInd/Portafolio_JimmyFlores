@@ -1,6 +1,6 @@
 # Portafolio Profesional - Jimmy Flores
 
-Este portafolio fue desarrollado como una vitrina digital para mis proyectos, experiencia e innovación en ingeniería industrial, automatización y analítica de datos aplicada al sector minero.
+Este portafolio fue desarrollado como una vitrina digital para mis proyectos, experiencia e innovación en Ingeniería Civil Industrial, automatización y analítica y Ciencia de datos aplicada al sector minero.
 
 Diseño base inspirado en un modelo open-source de la comunidad de desarrolladores web.
 
