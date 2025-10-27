@@ -1,0 +1,6 @@
+<svg width="27" height="24" viewBox="0 0 27 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Letra X del logo Excel -->
+  <path d="M6.3 5.5H10.2L13.1 10.1L16 5.5H19.9L15.5 12L20 18.5H16L13 13.9L10 18.5H6.1L10.5 12L6.3 5.5Z" fill="#21A366"/>
+  <!-- Simulación del borde de libro -->
+  <rect x="4.5" y="3" width="18" height="18" rx="2" stroke="#21A366" stroke-width="1.5"/>
+</svg>

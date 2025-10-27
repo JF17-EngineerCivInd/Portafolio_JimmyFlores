@@ -72,10 +72,10 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Operational Optimization through Data-Driven Decision Making",
-    des: "Developed a decision-support model integrating real process data to improve operational efficiency, performance visibility, and resource allocation across industrial systems.",
+    title: "One Step 1 - Transfer System Optimization",
+    des: "Data-driven redesign improving safety, flow reliability, and operational efficiency.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/python.svg", "/powerbi.svg", "/excel.svg", "/java.svg", "/navisworks.svg"],
     link: "https://your-link-here.com",
   },
   {
