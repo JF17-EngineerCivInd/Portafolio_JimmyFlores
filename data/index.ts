@@ -8,8 +8,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Ingeniero Civil Industrial & Business Intelligence Strategist",
-    description: "I merge engineering, analytics, and leadership to transform industrial data into strategic business value.",
+    title: "Industrial Engineer & Business Intelligence Strategist",
+    description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full object-cover object-center",
     titleClassName: "text-xl font-semibold text-white",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Driving industrial efficiency through data and innovation.",
+    title: "Project Governance & Digital Strategy",
     description: "",
     className: "lg:col-span-2 md:col-span-2 md:row-span-3",
     imgClassName: "",
@@ -29,7 +29,7 @@ export const gridItems = [
   {
     id: 3,
     title: "Business intelligence stack",
-    description: "I transform insight into action",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Strategic leader with a passion for analytics.",
+    title: "Operational Analytics & Continuous Improvement",
     description: "",
     className: "lg:col-span-3 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently designing intelligent business solutions.",
+    title: "Digital Transformation & Industrial Innovation",
     description: "Strategic Vision",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,25 +73,25 @@ export const projects = [
   {
     id: 1,
     title: "One Step 1 - Transfer System Optimization",
-    des: "Data-driven redesign improving safety, flow reliability, and operational efficiency.",
+    des: "Redesigning transfer systems through data analytics to enhance safety, efficiency, and operational continuity.",
     img: "/p1.svg",
     iconLists: ["/python.svg", "/powerbi.svg", "/excel.svg", "/java.svg", "/navisworks.svg"],
     link: "https://your-link-here.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "JF17 Portfolio – Digital Engineering Hub",
+    des: "Personal web portfolio showcasing data-driven engineering, BI solutions, and digital innovation projects.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/github.svg", "/python.svg", "/java.svg", "/re.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Predictive Analytics & Machine Learning Frameworks",
+    des: "Applying advanced ML pipelines in Python and Jupyter to forecast customer behavior, optimize operations and support strategic decision-making.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/python.svg", "/github.svg", "/excel.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
