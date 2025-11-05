@@ -91,15 +91,15 @@ export const projects = [
     title: "Predictive Analytics & Machine Learning Frameworks",
     des: "Applying advanced ML pipelines in Python and Jupyter to forecast customer behavior, optimize operations and support strategic decision-making.",
     img: "/p3.svg",
-    iconLists: ["/python.svg", "/github.svg", "/excel.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/python.svg", "/github.svg", "/excel.svg", "/re.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Automation Engine for Engineering Processes",
+    des: "Python + Power Automate/Fabric workflow to streamline document control and executive reporting.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/python.svg", "/github.svg", "/excel.svg", "/automate.svg", "/azure.svg"],
     link: "/ui.apple.com",
   },
 ];
@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Leading industrial digital transformation through intelligent workflows, AI-assisted decision-making and automated process systems, accelerating execution and strengthening operational resilience across high-impact environments.",
+    name: "⚙️🤖 Industrial Engineering Leadership Insight",
+    title: "Digital Strategy & Smart Operations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Achieving 20–25% improvements in validation speed and error reduction by applying structured QA/QC systems, 3D clash detection and data-driven process control across complex industrial projects and multidisciplinary teams.",
+    name: "🏭📊 Operational Excellence Perspective",
+    title: "Process Optimization & Reliability Engineering",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Turning production, cost and operational data into executive intelligence with Power BI and Python, building automated dashboards and KPI systems that enable real-time decisions and high-performance business execution.",
+    name: "📈🧠Executive Decision-Intelligence Review",
+    title: "Power BI, Python & Industrial Analytics",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Advancing digital engineering with point-cloud models, digital twins and 3D design systems, improving precision, cost efficiency and execution control in brownfield environments with high technical complexity.",
+    name: "🏗️🔍 Future-Ready Industrial Engineering",
+    title: "Digital Twins & Advanced 3D Modeling",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Strengthening strategic leadership and digital transformation capabilities through international programs at ASU, University of Miami and UNAB, combining innovation, management and data-driven execution.",
+    name: "🎓🌎 Global Professional Development",
+    title: "Strategic Leadership & Innovation.",
   },
 ];
 
